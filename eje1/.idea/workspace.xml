@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47d65d85-b0a9-4f4a-aad6-1d8eb6dd8c76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/net/edu/isistan/taller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/edu/isistan/taller/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="47d65d85-b0a9-4f4a-aad6-1d8eb6dd8c76" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +23,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -89,21 +99,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1319" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/net/edu/isistan/taller/Main.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/net/edu/isistan/taller/Main.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="129" y="54" key="MergeDialog" timestamp="1587316396570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1587316396570" />
+    <state x="-158" y="140" key="MultipleFileMergeDialog" timestamp="1587316404926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-158" y="140" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1587316404926" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587316349850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587316349850" />
   </component>
 </project>
