@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47d65d85-b0a9-4f4a-aad6-1d8eb6dd8c76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/net/edu/isistan/taller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/edu/isistan/taller/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="47d65d85-b0a9-4f4a-aad6-1d8eb6dd8c76" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
