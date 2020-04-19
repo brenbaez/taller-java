@@ -25,6 +25,7 @@ public class Main {
         } catch (UsuarioNoAutorizadoException e) {
             System.out.println("usuario que fallo: " + e.getNameFail() +
                     " y su pass fue: " + e.getPassFail());
+            throw new IllegalArgumentException();
         }
     }
 
