@@ -33,5 +33,6 @@ public class Main {
                 System.out.println("El nombre es: " + key + " y la cantidad de veces que aparece es: " + value));
         //dejo un comentario
         // mi primera modificacion en git papa
+        //lallalallaalall
     }
 }
