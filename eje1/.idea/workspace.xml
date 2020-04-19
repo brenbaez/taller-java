@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47d65d85-b0a9-4f4a-aad6-1d8eb6dd8c76" name="Default Changelist" comment="" />
+    <list default="true" id="47d65d85-b0a9-4f4a-aad6-1d8eb6dd8c76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29859fe5dd9f74c99db95bf6af0c8901b81570e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d2eec01e104c743e8afe07910c166f04e52833e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje2/.idea/eje2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/eje3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/out/production/eje3/net/edu/isistan/taller/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/out/production/eje3/net/edu/isistan/taller/UserLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/out/production/eje3/net/edu/isistan/taller/UsuarioNoAutorizadoException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/src/net/edu/isistan/taller/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/src/net/edu/isistan/taller/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eje3/src/net/edu/isistan/taller/UsuarioNoAutorizadoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/eje1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/out/production/eje1/net/edu/isistan/taller/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/out/production/eje1/net/edu/isistan/taller/Jaula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/out/production/eje1/net/edu/isistan/taller/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/out/production/eje1/net/edu/isistan/taller/Par.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/src/net/edu/isistan/taller/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/src/net/edu/isistan/taller/Jaula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/src/net/edu/isistan/taller/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics/eje1/src/net/edu/isistan/taller/Par.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/edu/isistan/taller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/edu/isistan/taller/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,37 +107,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1319" height="204" key="GridCell.Tab.0.bottom" timestamp="1587311659247">
+    <state width="1319" height="204" key="GridCell.Tab.0.bottom" timestamp="1587318503789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1319" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
-    <state width="1319" height="204" key="GridCell.Tab.0.center" timestamp="1587311659247">
+    <state width="1319" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587318503789" />
+    <state width="1319" height="204" key="GridCell.Tab.0.center" timestamp="1587318503789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1319" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
-    <state width="1319" height="204" key="GridCell.Tab.0.left" timestamp="1587311659247">
+    <state width="1319" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587318503789" />
+    <state width="1319" height="204" key="GridCell.Tab.0.left" timestamp="1587318503789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1319" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
-    <state width="1319" height="204" key="GridCell.Tab.0.right" timestamp="1587311659247">
+    <state width="1319" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587318503789" />
+    <state width="1319" height="204" key="GridCell.Tab.0.right" timestamp="1587318503789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1319" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
-    <state width="1319" height="204" key="GridCell.Tab.1.bottom" timestamp="1587311659247">
+    <state width="1319" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587318503789" />
+    <state width="1319" height="204" key="GridCell.Tab.1.bottom" timestamp="1587318503789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1319" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
-    <state width="1319" height="204" key="GridCell.Tab.1.center" timestamp="1587311659247">
+    <state width="1319" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587318503789" />
+    <state width="1319" height="204" key="GridCell.Tab.1.center" timestamp="1587318503789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1319" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
-    <state width="1319" height="204" key="GridCell.Tab.1.left" timestamp="1587311659247">
+    <state width="1319" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587318503789" />
+    <state width="1319" height="204" key="GridCell.Tab.1.left" timestamp="1587318503789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1319" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
-    <state width="1319" height="204" key="GridCell.Tab.1.right" timestamp="1587311659247">
+    <state width="1319" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587318503789" />
+    <state width="1319" height="204" key="GridCell.Tab.1.right" timestamp="1587318503789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1319" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587311659247" />
+    <state width="1319" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587318503789" />
+    <state x="74" y="0" key="new project wizard" timestamp="1587318499564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="74" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587318499564" />
   </component>
 </project>
