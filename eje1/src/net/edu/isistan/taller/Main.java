@@ -32,5 +32,8 @@ public class Main {
         namesMap.forEach((key, value) ->
                 System.out.println("El nombre es: " + key + " y la cantidad de veces que aparece es: " + value));
         //dejo un comentario
+        // mi primera modificacion en git papapp
+        //lallalallaalall
+        //hola miren mis cambios
     }
 }
